@@ -31,6 +31,6 @@ The main goal of this work is to develop a reliable and data-driven framework fo
  
 ## Reference
 
-For detailed methodology, benchmarking results, and practical applications of the models, please refer to:
+For adapted dataset, detailed methodology, benchmarking results, and practical applications of the models, please refer to:
 
   - Link to the paper will be added later.
